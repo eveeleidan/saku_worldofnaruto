@@ -189,6 +189,10 @@ i.fas.fa-trash-alt:hover,
     color: #41463e!important;
 }
 
+.liked .fas, .reposted .fas, .bookmarked .fas {
+    color: #aa5d5d !important;
+}
+
 .post-header {
     position: relative;
     padding-bottom: 22px;
